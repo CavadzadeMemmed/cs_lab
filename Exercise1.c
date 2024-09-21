@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+    puts("loading..");
     int x, y1, y2, y3;
 
     scanf("%d", &x);
