@@ -15,7 +15,7 @@ int main() {
         for (int j = 0; j < m; j++) {
             printf("%d ", matrix[i][j]*k);
         }
-        puts("")
+        puts("");
     }
 
     return 0;
